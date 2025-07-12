@@ -1,9 +1,13 @@
 ## Hi there 👋
 
 🎓 MSc in Automation & Robotics (Robots and Autonomous Systems)
+
 🔧 Academic experience with ROS2, Python, C++, and control theory
+
 🧠 Explored topics like computer vision, SLAM, and motion planning
+
 🤖 Interested in AI, robotics software, and autonomous systems
+
 📫 How to reach me: hubert.gorecki.hg01@gmail.com
 
 <!--
